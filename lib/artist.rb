@@ -6,7 +6,7 @@ class Artist
     @name = name
   end
 
-  def artist
+  def artist(artist)
     artist.name
   end
 end
