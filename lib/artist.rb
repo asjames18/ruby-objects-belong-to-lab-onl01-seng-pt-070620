@@ -7,5 +7,5 @@ class Artist
   end
 
   def artist
-    artist = artist.new
+    artist = artist.name
 end
