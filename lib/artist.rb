@@ -7,5 +7,3 @@ class Artist
   # end
 
 end
-
-autho
