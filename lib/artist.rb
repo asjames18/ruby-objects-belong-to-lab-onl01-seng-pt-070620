@@ -8,4 +8,5 @@ class Artist
 
   def artist
     artist.name
+  end
 end
