@@ -5,4 +5,7 @@ class Artist
   def initialize (name)
     @name = name
   end
+
+  def artist
+    artist = artist.new
 end
